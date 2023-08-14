@@ -1,2 +1,2 @@
 # api-go-rest
-![Alt text](image.png)
+![Alt text](image.jpg)
